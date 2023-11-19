@@ -1,0 +1,10 @@
+.mdxeditor {
+    direction: rtl !important;
+    text-align: right !important;
+    position:absolute;
+    top: 0%;
+    white-space: pre-line !important;
+}
+._toolbarRoot_1xops_141 {
+    direction: rtl !important; 
+}
